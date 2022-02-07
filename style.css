@@ -6,6 +6,7 @@ body{
     background-color: black;
     height: 100%;
     width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .contenedor{
@@ -19,7 +20,8 @@ body{
    
 }
 .formulario1{
-    background-color: blueviolet;
+    background-color: rgb(74, 0, 143);
+    color: white;
 }
 form input{
     text-align: center;
